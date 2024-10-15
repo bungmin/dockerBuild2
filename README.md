@@ -1,6 +1,9 @@
 # dockerfiles-ubuntu-user-adderable
 Ubuntu, It support base user creation and password setting...
 
+# 연습용
+* buildScript : https://github.com/bungmin/dockerBuild2
+
 # Building & Running
 
 Copy the sources to your docker host and build the container, and to run.
